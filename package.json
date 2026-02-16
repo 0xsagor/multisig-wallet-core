@@ -1,0 +1,8 @@
+{
+  "name": "multisig-wallet-core",
+  "version": "1.0.0",
+  "description": "Secure Multi-Signature Wallet Smart Contract",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}
